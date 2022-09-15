@@ -19,7 +19,7 @@ It outputs:
  1. Place all of the raw CSV files from the Scottish Government in the "raw-input" directory
  2. Run this program - e.g., `python energy-efficiency-data-processor.py`
 
-Note: some data is removed to save on file size - only information relevant to Living Rent is processed. To get other available data, you can modify "columns_to_export" variable.
+Note: some data is removed to save on file size - only information relevant to Living Rent is processed. To get other available data, you can modify `columns_to_export` variable.
 
 ### Prerequisites
  - Python 3
