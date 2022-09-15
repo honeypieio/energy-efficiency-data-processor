@@ -3,7 +3,7 @@
 # --------------------------------
 
 # PROGRAM DESCRIPTION:
-# This program processes raw data on the energy efficiency of homes from the Scottish Government.
+# This program processes raw data from the Scottish Government on the energy efficiency of homes.
 # The raw data can be downloaded from here:
 #       https://statistics.gov.scot/data/domestic-energy-performance-certificates
 
@@ -11,7 +11,7 @@
 # This program finds the most up to date assessment results on each home across all of the raw data. The program assumes that the newest files contain the most up to date information.
 
 # It outputs:
-#       * All data in a single CSV file (around 1.5 million homes as of September 2022)
+#       * All data on every address that has been assessed since 2012 in a single CSV file (around 1.5 million homes as of September 2022)
 #       * Individual CSV files for each local authority
 
 
